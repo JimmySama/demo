@@ -1,3 +1,3 @@
 # DEMO PROJECT FOR GIT
 
-This is a simple README file for git project
+Adding LICENSE File and README file
